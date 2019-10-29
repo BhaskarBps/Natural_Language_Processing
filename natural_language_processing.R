@@ -1,7 +1,7 @@
 # Natural Language Processing
 
 # Importing the dataset
-dataset_original = read.delim('E:\\CLASS\\Machine learning\\nlp\\Restaurant_Reviews.tsv', quote = '', stringsAsFactors = FALSE)
+dataset_original = read.delim('Restaurant_Reviews.tsv', quote = '', stringsAsFactors = FALSE)
 
 # Cleaning the texts
 # install.packages('tm')
